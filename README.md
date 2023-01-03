@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Almog Ben Shaul ✌️
 
-<!--
-**Almogbs/Almogbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almogbs&label=Profile%20views&color=0e75b6&style=flat" alt="almogbs" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almogbs" alt="almogbs" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+- Computer Science, Technion Israel Institute of Technology
+- Machine Learning and Data Analysis Specialization
+- Linux Kernel, Embedded Systems, SoC, ARM, Data, ML & Algorithms enthusiast
+- Software Engineer at Amazon (AWS)
+- Enjoy challenges and learning new things
+- Great in teamworking, problem solving and self-learning
+- Check up my page [Here](Almogbs.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almogbs&hide=javascript,html,css,scss,jupyter%20notebook&langs_count=4&theme=radical)](https://github.com/almogbs)
