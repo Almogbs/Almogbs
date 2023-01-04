@@ -11,6 +11,6 @@
 - Software Engineer at Amazon (AWS)
 - Enjoy challenges and learning new things
 - Great in teamworking, problem solving and self-learning
-- Check up my page [Here](Almogbs.github.io)
+- Check up my page [Here](https://Almogbs.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almogbs&hide=javascript,html,css,scss,jupyter%20notebook&langs_count=4&theme=radical)](https://github.com/almogbs)
